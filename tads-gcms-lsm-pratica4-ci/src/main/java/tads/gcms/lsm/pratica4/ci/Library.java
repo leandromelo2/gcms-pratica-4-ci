@@ -5,6 +5,6 @@ package tads.gcms.lsm.pratica4.ci;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return false;
+        return true;
     }
 }
