@@ -16,8 +16,8 @@ jobs:
     
     defaults:
       run:
-        shell: bash
-        working-directory: ./tads-gcms-lsm-pratica4-ci/
+         shell: bash
+         working-directory: ./tads-gcms-lsm-pratica4-ci/
     
     steps:
     - uses: actions/checkout@v2
